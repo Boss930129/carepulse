@@ -46,7 +46,7 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **boss**
 
-- GitHub: [@Hombre2014](https://github.com/boss930129)
+- GitHub: [@boss930129](https://github.com/boss930129)
 
 ## 🤝 Contributing
 
