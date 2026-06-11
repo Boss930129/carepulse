@@ -44,7 +44,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Author
 
-👤 **Yuriy Chamkoriyski**
+👤 **boss**
 
 - GitHub: [@Hombre2014](https://github.com/boss930129)
 
