@@ -34,7 +34,7 @@ Deploy your project with [Vercel](https://vercel.com/)
 
 To get a local copy up and running follow these simple example steps.
 
-- Clone the project to your local machine using `git clone https://github.com/Hombre2014/carepulse.git`
+- Clone the project to your local machine using `git clone https://github.com/boss930129/carepulse.git`
 - `cd carepulse` into the project directory
 - Run `npm install` to install the necessary packages
 - have a look at the `.env.example` file and create a `.env.local` file with the necessary environment variables
@@ -46,23 +46,17 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Yuriy Chamkoriyski**
 
-- GitHub: [@Hombre2014](https://github.com/Hombre2014)
-- Twitter: [@Chamkoriyski](https://twitter.com/Chamkoriyski)
-- LinkedIn: [axebit](https://linkedin.com/in/axebit)
+- GitHub: [@Hombre2014](https://github.com/boss930129)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Hombre2014/carepulse/issues).
+Feel free to check the [issues page](https://github.com/boss930129/carepulse/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-Thanks to JavaScript Mastery for inspirational [video](https://www.youtube.com/watch?v=lEflo_sc82g).
 
 ## 📝 License
 
